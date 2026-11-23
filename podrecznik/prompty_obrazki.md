@@ -4,7 +4,7 @@
 
 Ten plik zawiera gotowe opisy (prompty) do wygenerowania obrazków dla podręcznika. Są dwa rodzaje:
 
-- **Część A — Ilustracje klimatyczne** na początek rozdziałów (`obrazki/ilustracje/`). Tych obrazków jeszcze nie ma.
+- **Część A — Ilustracje klimatyczne** na początek rozdziałów (`obrazki/ilustracje/`). Już są wygenerowane — możesz je zrobić od nowa według tych promptów.
 - **Część B — Schematy zasad** (`obrazki/`). Proste wersje już są w folderze. Prompty pozwalają zrobić ładniejsze — pod tą samą nazwą pliku.
 
 Prompty są po angielsku, bo większość modeli rozumie angielski najlepiej.
@@ -263,16 +263,16 @@ Zalecany format: **16:9** albo jak podano. Do każdego dodaj **STYL B**. W polu 
 
 | Plik | Typ | Jest w folderze? |
 |---|---|---|
-| `obrazki/ilustracje/il_00_okladka.png` | ilustracja | do wygenerowania |
-| `obrazki/ilustracje/il_01_zasady.png` | ilustracja | do wygenerowania |
-| `obrazki/ilustracje/il_02_misje.png` | ilustracja | do wygenerowania |
-| `obrazki/ilustracje/il_03_sprzet.png` | ilustracja | do wygenerowania |
-| `obrazki/ilustracje/il_04_strefy_walki.png` | ilustracja | do wygenerowania |
-| `obrazki/ilustracje/il_04_volkus.png` | ilustracja | do wygenerowania |
-| `obrazki/ilustracje/il_04_bheta_decima.png` | ilustracja | do wygenerowania |
-| `obrazki/ilustracje/il_04_tomb_world.png` | ilustracja | do wygenerowania |
-| `obrazki/ilustracje/il_05_tryby_gry.png` | ilustracja | do wygenerowania |
-| `obrazki/ilustracje/il_05_joint_ops.png` | ilustracja | do wygenerowania |
+| `obrazki/ilustracje/il_00_okladka.png` | ilustracja | tak |
+| `obrazki/ilustracje/il_01_zasady.png` | ilustracja | tak |
+| `obrazki/ilustracje/il_02_misje.png` | ilustracja | tak |
+| `obrazki/ilustracje/il_03_sprzet.png` | ilustracja | tak |
+| `obrazki/ilustracje/il_04_strefy_walki.png` | ilustracja | tak |
+| `obrazki/ilustracje/il_04_volkus.png` | ilustracja | tak |
+| `obrazki/ilustracje/il_04_bheta_decima.png` | ilustracja | tak |
+| `obrazki/ilustracje/il_04_tomb_world.png` | ilustracja | tak |
+| `obrazki/ilustracje/il_05_tryby_gry.png` | ilustracja | tak |
+| `obrazki/ilustracje/il_05_joint_ops.png` | ilustracja | tak |
 | `obrazki/01_control_range.png` … `obrazki/12_gallowdark.png` | schemat | tak (prosta wersja) |
 
 [← Spis podręcznika](README.md)

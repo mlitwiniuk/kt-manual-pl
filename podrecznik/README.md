@@ -18,7 +18,7 @@ Ten podręcznik tłumaczy zasady Kill Team tak, żeby zrozumiał je jedenastolat
 | 4 | [Strefy walki](04_strefy_walki.md) | Stoły Volkus, Bheta-Decima, Gallowdark, Tomb World, Octarius; walka w korytarzach |
 | 5 | [Inne tryby gry](05_inne_tryby_gry.md) | Pierwsza bitwa, gra solo i we dwóch przeciwko NPO, gra w 3–4 osoby, kampanie |
 | 6 | [Słowniczek](06_slowniczek.md) | Wszystkie angielskie słowa z gry, alfabetycznie |
-| 7 | [Oddziały](07_oddzialy/README.md) | Zasady poszczególnych kill teamów: Kommandos, Deathwatch, Legionaries (kolejne w przygotowaniu) |
+| 7 | [Oddziały](07_oddzialy/README.md) | Zasady poszczególnych kill teamów: Kommandos, Deathwatch, Legionaries, Phobos Strike Team, Wrecka Krew, Corsair Voidscarred, Fellgor Ravagers, Canoptek Circle, Spectre Squad, Vespid Stingwings, Farstalker Kinband, Pathfinders, Battleclade, Goremongers, Sanctifiers, Celestian Insidiants, Murderwing — wszystkie 17 oddziałów |
 | — | [Prompty do obrazków](prompty_obrazki.md) | Opisy do wygenerowania ilustracji i schematów |
 
 **Od czego zacząć?** Przeczytaj część 1, zagraj pierwszą bitwę z [części 5](05_inne_tryby_gry.md#2-preliminary-ops--pierwsza-bitwa), a potem przejdź do misji z części 2.
@@ -54,7 +54,7 @@ Skróty, które pojawiają się wszędzie:
 Folder `obrazki/` ma dwa rodzaje obrazków:
 
 - **Schematy** (`obrazki/01_…png` do `obrazki/12_…png`) — proste rysunki zasad. Już są w folderze. Można je zastąpić ładniejszymi wersjami według [promptów](prompty_obrazki.md) — pod tymi samymi nazwami.
-- **Ilustracje** (`obrazki/ilustracje/il_…png`) — klimatyczne obrazki na początek rozdziałów. **Trzeba je wygenerować** według [promptów](prompty_obrazki.md) i zapisać pod podanymi nazwami. Dopóki ich nie ma, w miejscu obrazka widać tylko jego opis.
+- **Ilustracje** (`obrazki/ilustracje/il_…png`) — klimatyczne obrazki na początek rozdziałów, wygenerowane według [promptów](prompty_obrazki.md). Nową wersję zapisz pod tą samą nazwą.
 
 ---
 
@@ -69,6 +69,7 @@ Folder `obrazki/` ma dwa rodzaje obrazków:
 
 ## Historia zmian podręcznika
 
+- **Listopad 2026** — wersja 4: pozostałe 14 oddziałów: Phobos Strike Team, Wrecka Krew, Corsair Voidscarred, Fellgor Ravagers, Canoptek Circle, Spectre Squad, Vespid Stingwings, Farstalker Kinband, Pathfinders, Battleclade, Goremongers, Sanctifiers, Celestian Insidiants i Murderwing.
 - **Listopad 2026** — wersja 3: dodana część 7 — oddziały Kommandos, Deathwatch i Legionaries.
 - **Listopad 2026** — wersja 2: podręcznik podzielony na części; dodane misje (Approved Ops 2025, Preliminary Ops, Joint Ops, Multiplayer Ops), sprzęt uniwersalny, strefy walki i słowniczek.
 - **Listopad 2026** — wersja 1: zasady podstawowe.

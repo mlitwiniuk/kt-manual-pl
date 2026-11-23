@@ -16,13 +16,13 @@ This repo is the source of truth; content gets published to a self-hosted Wiki.j
 | 4 | [Strefy walki](podrecznik/04_strefy_walki.md) | Killzones and Close Quarters rules |
 | 5 | [Inne tryby gry](podrecznik/05_inne_tryby_gry.md) | Preliminary, Joint (co-op/solo), Multiplayer Ops; campaigns |
 | 6 | [Słowniczek](podrecznik/06_slowniczek.md) | EN→PL glossary |
-| 7 | [Oddziały](podrecznik/07_oddzialy/README.md) | Team rules: Kommandos, Deathwatch, Legionaries (more coming) |
+| 7 | [Oddziały](podrecznik/07_oddzialy/README.md) | Team rules for all 17 kill teams |
 | — | [Prompty do obrazków](podrecznik/prompty_obrazki.md) | Image-model prompts for illustrations and diagrams |
 
 ## Status
 
 - Rules current to the **October 2026** official update; last content pass 23 Nov 2026.
-- 3 of 17 planned teams written. See the backlog in [`AGENTS.md`](AGENTS.md#backlog).
+- All 17 planned team pages written. See the backlog in [`AGENTS.md`](AGENTS.md#backlog).
 - Illustrations not generated yet; rule diagrams are simple matplotlib renders.
 
 ## Repo layout

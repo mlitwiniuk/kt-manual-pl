@@ -15,10 +15,24 @@ Każdy oddział ma swoje zasady: kto może do niego należeć, jakie ma specjaln
 | [Kommandos](kommandos.md) | Orkowie | 10 | Skradanie się i szarża z ukrycia | Infiltration, Seek & Destroy |
 | [Deathwatch](deathwatch.md) | Imperium (Space Marines) | 5 | Elitarni weterani, mocne kontry | Seek & Destroy, Security |
 | [Legionaries](legionaries.md) | Chaos (Space Marines) | 6 | Elitarni wojownicy ze znakami bogów | Seek & Destroy, Security |
+| [Phobos Strike Team](phobos-strike-team.md) | Imperium (Space Marines) | 6 | Szybcy zwiadowcy, zagłuszanie, miny | Infiltration, Recon |
+| [Wrecka Krew](wrecka-krew.md) | Orkowie | 8 | Rozwałka: wybuchy, rakiety, młoty | Seek & Destroy, Security |
+| [Corsair Voidscarred](corsair-voidscarred.md) | Aeldari (piraci) | 9 | Szybkie wypady i sztuczki psioników | Infiltration, Recon |
+| [Fellgor Ravagers](fellgor-ravagers.md) | Chaos (zwierzoludzie) | 10 | Walka wręcz i szał przed śmiercią | Seek & Destroy, Recon |
+| [Canoptek Circle](canoptek-circle.md) | Nekroni (maszyny) | 8 | Matryca obelisków, kontrola terenu | Security, Recon |
+| [Spectre Squad](spectre-squad.md) | Imperium (Gwardia) | 11 | Strzały z ukrycia, przerywanie wroga | Infiltration, Recon |
+| [Vespid Stingwings](vespid-stingwings.md) | T'au (Vespidzi) | 11 | Latanie i broń neutronowa | Seek & Destroy, Recon |
+| [Farstalker Kinband](farstalker-kinband.md) | T'au (Krootowie) | 12 | Zasadzki, polowanie na wybrany cel | Infiltration, Recon |
+| [Pathfinders](pathfinders.md) | T'au | 12 | Znaczniki laserowe i drony | Infiltration, Recon |
+| [Battleclade](battleclade.md) | Imperium (Adeptus Mechanicus) | 10 | Sieć serwitorów i dodatkowe akcje | Infiltration, Recon |
+| [Goremongers](goremongers.md) | Chaos (kultyści Khorne'a) | 8 | Szybkie szarże i moce ze zbiorników krwi | Seek & Destroy, Recon |
+| [Sanctifiers](sanctifiers.md) | Imperium (Ministorum) | 11 | Kazanie, święty ogień, trzymanie się razem | Seek & Destroy, Security |
+| [Celestian Insidiants](celestian-insidiants.md) | Imperium (Siostry Bitwy) | 9 | Natchnienie i męczeństwo, łowczynie psioników | Seek & Destroy, Security |
+| [Murderwing](murderwing.md) | Chaos (Space Marines) | 6 | Skoki z plecakami i ataki z góry | Seek & Destroy, Recon |
 
 ## W przygotowaniu
 
-Corsair Voidscarred, Fellgor Ravagers, Canoptek Circle, Spectre Squad, Wrecka Krew, Phobos Strike Team, Vespid Stingwings, Farstalker Kinband (Krootowie), Pathfinders, Battleclade, Goremongers, Sanctifiers, Celestian Insidiants, Murderwing.
+Wszystkie zaplanowane oddziały są już opisane.
 
 ---
 
