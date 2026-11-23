@@ -1,0 +1,20 @@
+# DEATHWATCH (Wahapedia kill-team3_, Oct 2026 version; earlier Jan 2026). Archetypes Seek & Destroy, Security.
+Selection: 5 ops from 11, each once, max 1 GRAVIS (Bombard, Breacher, Horde-Slayer). All APL3.
+Faction: Veteran Astartes: 2 Shoot or 2 Fight per activation; if both Shoots with aux grenade launcher/frag cannon/heavy plasma incinerator/infernus heavy bolter/plasma pistol/stalker bolt rifle, or either with melta bomb -> second costs +1AP. Counteract regardless of order; in counteract one additional 1AP action free (different actions, not Fight+Shoot).
+Special Issue Ammunition: once/TP at Select Weapon choose for ranged weapons: Blast 1" (not Torrent), Devastating 1, Lethal 5+, Piercing Crits 1, Saturate, Severe. Not explosive grenades/melta bombs.
+Strat: Mission Tactics (choose Conceal or Engage: Balanced vs enemies with that order, shoot/fight/retaliate); The Shield That Slays (wholly in opp territory: Normal Dmg 4+ inflicts 1 less); The Long Vigil (wholly in your territory, shot: re-roll one defence die); ATSKNF (ignore injury).
+Firefight: Suffer Not the Alien (vs non-CHAOS non-IMPERIUM: re-roll any attack dice); Advanced Auspex Scan (Shoot: Saturate + no obscured until end activation); Auspicator Tracking (counteracting: change order before actions); Transhuman Physiology (normal save -> crit).
+Equip: Digital Weapons (once/TP Fight: 1 dmg at start of Roll Attack Dice); Sanctus-V Bioscryer Cuffs (once/activation not in enemy CR: regain D3 / remove APL changes / remove token); Scrutavore Servo-Thrall (once/TP mission action -1AP, can do in enemy CR, then roll-off, lose if opp wins); Ammunition Reserve (once/battle SIA on two Shoots in a TP, different rules).
+Ops:
+Watch Sergeant M6 Sv3+ W15 32mm: Plasma pistol std 4/3+/3/5 R8 P1; supercharge 4/3+/4/5 R8 Hot Lethal5+ P1; Power weapon 5/3+/4/6 Lethal5+. Adaptable Armoury (+1 equipment option); Strategic Command (once/battle one strat ploy 0CP and one firefight 0CP). LEADER presumably.
+Aegis M6 Sv2+ W15: Bolt pistol 4/3+/3/4 R8; Power maul & storm shield 5/3+/4/6 Shock Shield(each block blocks two). Storm Shield (Piercing worsened by 1 when shot).
+Blademaster M6 Sv3+ W15: SI bolt pistol 4/3+/3/4 R8 P1; Xenophase duel 5/3+/4/6 Brutal Lethal5+; phase sweep 4/3+/4/6 Brutal Lethal5+ Phase Sweep (free Fight vs each other enemy in CR). Adaptive Swordsmanship (ignore Hit changes to blade; resolve one success out of order as block).
+Bombard GRAVIS M5 Sv3+ W18 40mm: Bolt pistol; Frag cannon shell 4/3+/5/7 P1; shrapnel 5/3+/4/5 Torrent2; Fists 4/3+/3/4.
+Breacher GRAVIS M5 W18 40mm: Aux GL frag 4/3+/2/4 Blast2; krak 4/3+/4/5 P1; Hellstorm bolt rifle 4/3+/4/5 Torrent1; Melta bomb 4/3+/5/3 R3 Devastating3 Heavy(Reposition only) Limited1 P2; Fists.
+Demolisher M6 W15: Bolt pistol; Heavy thunder hammer 5/4+/6/7 Shock Stun. Brutal Assault (Brutal when fighting; Ceaseless after Charge). Aggressive Force (fight/retaliate: Dmg 3+ inflicts 1 less; not with Shield That Slays).
+Disruptor M7 W13: Marksman bolt carbine 4/3+/3/4 Lethal5+; Fists. Advanced Omni-Scrambler (gambit: enemy visible/within 6", D6: can't activate until opp did that many activations or last). Auspex Triangulation (Adv Auspex Scan 0CP if not in enemy CR and target visible to Disruptor).
+Gunner M6 W15: Bolt pistol; Heavy plasma incinerator std 5/3+/4/6 P1; supercharge 5/3+/5/6 Hot Lethal5+ P1; Fists.
+Headtaker M7 W13: SI bolt pistol; Combat knives 5/3+/4/5. Grav-chute (climb=2", drop ignored). Clandestine Headtaker (Charge in Conceal; vs enemy it wasn't visible to at start: after first strike resolve another strike immediately).
+Horde-Slayer GRAVIS M5 W18 40mm: Bolt pistol; Infernus flame 5/2+/3/3 R8 Saturate Torrent2; focused bolt 5/3+/4/5 PiercingCrits1; sweeping 4/3+/4/5 PiercingCrits1 Torrent1; Fists.
+Marksman M6 W15: Stalker bolt rifle mobile 4/3+/3/4; heavy 4/2+/3/5 Heavy(Dash only) Lethal5+ PiercingCrits1; Fists. Vigilant Marksman (Guard anywhere; CQ: once/TP after free guard shot, free Guard again, then no counteract).
+FAQ: Terrorchem token can't be removed by Cuffs before damage when Poison Objective ends.

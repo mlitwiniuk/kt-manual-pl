@@ -1,0 +1,22 @@
+# Wahapedia "The Missions" (core book)
+General setup: 30x22 killzone; random initiative; initiative player picks drop zone (or killzone edge if no mission); drop zone within 3" of edge; alternate set up 1/3 (round up) wholly in drop zone with Conceal.
+PRELIMINARY OPS (PvP, core book intro missions): initiative player D6: 1-3 Map1, 4-6 Map2. Player w/o initiative places objective on centreline >2" from neutral edges; then each player places one (initiative first) wholly within different territory, within 3" of centreline, >5" from other objective markers, >2" from neutral edges. Gallowdark: D6 (reroll 5-6) one of 4 maps, objectives preplaced.
+Ops: Kill Op + Crit Op; 4 TPs; most VP wins.
+Kill Op: grade 0->5; each new grade 1VP; end TP4 higher grade +1VP. Example: 8 starting enemies -> 2 kills grade1, 3 kills grade2.
+Crit Op D3: 1 Secure (Secure 1AP: secures controlled objective until enemy secures it; not TP1, not in enemy CR. End each TP after first: 1VP any secured; 1VP more secured than opp). 2 Loot (Loot 1AP controlled objective; not TP1, not in enemy CR, not on obj already looted this TP; 1VP each Loot, max 2/TP). 3 Transmission (Initiate Transmission 1AP: controlled obj transmits until start of next TP; not TP1, not in enemy CR; end each TP after first 1VP if friendly control any transmitting obj; 1VP if control more transmitting than enemy).
+JOINT OPS (co-op / solo vs NPO): players as one player, shared CP/equipment. Mission D3: 1 Breach, 2 Sabotage, 3 Escape. One kill team split. NPOs from datacards; total Wounds limit. Initiative: roll; if NPOs win they always take initiative. Behaviours Brawler/Marksman with priority lists; Threat principle (choose worst for players). NPO gambit always pass.
+NPO datacards (Move 6): Trooper Brawler APL2 5+ 7W Blades 4,4+,3/4 Ceaseless; Trooper Marksman APL2 5+ 7W Firearm 4,4+,2/3; Special weapon 4,4+,4/5 Piercing1 (1 in 3); Knife 3,4+,2/3; Tough Brawler 2,4+,10W Blades 4,4+,4/5 Ceaseless; Warrior Marksman 2,4+,8W Firearm 4,4+,3/4 Knife 3,4+,2/3; Heavy Brawler 3,3+,14W Blades 5,3+,4/5 Ceaseless, two Fight per activation; Heavy Marksman 3,3+,14W Firearm 4,3+,3/4 Knife 4,3+,3/4 two Shoot per activation.
+Brawler: Engage if can Fight/Charge else Conceal; priority Fight > Charge closest > Reposition toward closest (into cover) > Dash toward closest.
+Marksman: Engage if can Shoot else Conceal; priority Fall Back to cover (with valid target/objective) > Shoot > Reposition to cover > Dash to cover.
+Activation priority: NPO that can Fight/Shoot most threatening > not in cover > closer. Shoot target priority: not obscured, not in cover, near objective, closest, wounded, ready. Fight: wounded, near objective, ready.
+Breach 90W NPOs, win kill all. Sabotage 90W, reinforcements when half NPOs incap (2 random non-Heavy or 1 Heavy, within 3" of Reinforcement marker), Sabotage 1AP each objective; win when all sabotaged. Escape 77W, reinforcements in NPO drop zone within 6" of edge >6" from player ops; escape over NPO killzone edge; win if >50% escaped.
+MULTIPLAYER OPS (3-4 players): two boards joined along long edge; player order D6; Map1/2; Elimination Op: count incaps per TP, 12+W counts as 2; end each TP after first rank: 1st 2VP, 2nd 1VP; ties share higher. Crit ops Secure (1VP per secured max 3/TP), Loot (same), Transmission (1VP per transmitting controlled max 3/TP).
+
+# Play modes KT3
+Goonhammer core rules review: Spec Ops gone from KT3 core; no progression system in core; campaigns/leagues possible without progression.
+KT3 core 'The Missions': Preliminary Ops (PvP), Joint Ops (co-op/solo vs NPO), Multiplayer Ops (3-4).
+Lexicanum TOC lists open/matched/spec ops -> that's 2nd ed, ignore.
+
+# Narrative / expansions KT3
+Kill Team: Typhon (2025): Joint Ops Typhon mission pack: 3-part branching co-op campaign (results decide next mission); Event cards; neutral Hormagaunt NPOs; NPO rules for PvP: dormant NPOs that wake when disturbed and attack anyone; suits 3-objective missions; 6 killzone layouts; adaptable to cultists/gretchin.
+Nemesis Operatives (Wahapedia kill-team3 page; expansion): custom big operatives (Small/Medium/Large: Control 4/5/6, Move 6, Save 4+, W 35/50/75), activate twice per TP; NPO behaviours Brawler/Marksman/Battler/Guardian; NPO activation deck 1-13; Joint Ops branching campaign missions 01 Erosion of Power, 02 Outmanoeuvre, 03 Ambush, 04 Strongpoint Assault; Nemesis Ops head-to-head; Ambull & Archivist packs. Difficulty adjust.
