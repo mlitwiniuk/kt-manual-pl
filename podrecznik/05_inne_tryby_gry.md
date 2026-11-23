@@ -71,7 +71,7 @@ To najprostsza oficjalna misja dla dwóch graczy. Idealna na pierwsze gry, bo ma
 
 ### Punkty
 
-- **Kill Op** — tak samo jak w Approved Ops (poziomy eliminacji, 1 VP za każdy nowy poziom i 1 VP za wyższy poziom na końcu bitwy).
+- **Kill Op** — tak samo jak w Approved Ops: 1 VP za każdy nowy poziom eliminacji i 1 VP, jeśli na końcu czwartej rundy masz wyższy poziom niż przeciwnik. Ilu wrogów trzeba pokonać na każdy poziom, sprawdzisz w [tabeli poziomów eliminacji](02_misje.md#tabela-poziomów-eliminacji).
 - **Crit Op** — według wylosowanej operacji.
 - Bitwa trwa **4 rundy**. Wygrywa gracz z większą liczbą VP.
 

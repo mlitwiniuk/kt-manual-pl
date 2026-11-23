@@ -76,7 +76,7 @@ Wszyscy mają podstawkę **32 mm**.
 
 - Nie może dostać rozkazu **Conceal**.
 - Jest **ciężko ranny** (*injured*) — ma kary za rany.
-- **Nie może** wykonywać *Pick Up Marker*, akcji unikalnych (poza *Sweeping Blow* Vandala) ani akcji misji (poza *Operate Hatch*).
+- **Nie może** wykonywać *Pick Up Marker*, akcji unikalnych (poza *Sweeping Blow* Vandala) ani akcji misji (poza *Breach* i *Operate Hatch*).
 - Przy liczeniu kontroli celów i stref jego APL to zawsze **1**.
 - Może normalnie ruszać się, szarżować, walczyć i strzelać.
 
@@ -261,7 +261,7 @@ Do tego *autopistol*.
 
 **Tactual Hunter** (Łowca po dotyku — cecha broni): gdy walczy z wrogiem, który już się aktywował (*expended*) — po pierwszym ciosie krytykiem może **od razu zadać kolejny cios**, zanim odpowie przeciwnik.
 
-**Berserker** (Berserker): **nie może strzelać**. Może stanąć na wartę (*Guard*), ale wtedy przerywa wroga tylko walką. *Pick Up Marker* i akcje misji (poza *Operate Hatch*) kosztują go **1 AP więcej**.
+**Berserker** (Berserker): **nie może strzelać**. Może stanąć na wartę (*Guard*), ale wtedy przerywa wroga tylko walką. *Pick Up Marker* i akcje misji (poza *Breach* i *Operate Hatch*) kosztują go **1 AP więcej**.
 
 **Savage** (Dziki): pierwszy raz w aktywacji, gdy zawalczy i przeżyje — może od razu wykonać **darmowy Fight** przeciwko dowolnemu wrogowi. Między tymi walkami nie możesz użyć *Ruthless Rampage*.
 

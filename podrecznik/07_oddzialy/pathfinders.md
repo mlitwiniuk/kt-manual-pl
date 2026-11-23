@@ -4,7 +4,7 @@
 
 [← Lista oddziałów](README.md) · [Spis podręcznika](../README.md)
 
-Zasady według oficjalnego dokumentu z października 2026. W tej wersji **Drone Controller jest skreślony z listy wyboru** — nie można go wziąć.
+Zasady według oficjalnego dokumentu z października 2026.
 
 ---
 
@@ -54,6 +54,7 @@ Zasady według oficjalnego dokumentu z października 2026. W tej wersji **Drone 
 | Weapons Expert (Ekspert od broni) — z *ion rifle* **albo** *rail rifle* | do 2 |
 | Blooded (Weteran) | 1 |
 | Transpectral Interference (Zakłócacz) | 1 |
+| Drone Controller (Operator dronów) | 1 |
 | Assault Grenadier (Grenadier szturmowy) | 1 |
 | Comms Specialist (Łącznościowiec) | 1 |
 | Medical Technician (Medyk) | 1 |
@@ -81,7 +82,7 @@ Większość Pathfinderów ma akcję:
 
 > ⚠️ **Uwaga:** W jednej aktywacji żołnierz nie może podświetlić **jednego** wroga i strzelić do **innego**. (Wyjątek: dron MB3.)
 
-**Co dają znaczniki?** Gdy twój Pathfinder strzela do wroga ze znacznikami, dostaje wszystkie premie do tej liczby:
+**Co dają znaczniki?** Gdy twój Pathfinder strzela do wroga ze znacznikami **z broni ze swojej karty**, dostaje wszystkie premie do tej liczby:
 
 | Znaczniki | Premia |
 |---|---|
@@ -188,6 +189,14 @@ Broń: *pulse carbine* i *gun butt*.
 | Bionic arm (Bioniczne ramię) | 3 | 4+ | 3/4 | — |
 
 **Veteran** (Weteran): w rundzie, w której wybrałeś *Mont'ka*, w swojej aktywacji może korzystać z *Kauyon* zamiast tego (i odwrotnie).
+
+### Drone Controller (Operator dronów)
+
+Broń: *pulse carbine* i *gun butt*.
+
+**Drone Controller** (Operator dronów): dopóki jest na stole, twoje drony mają **Move o 2" większy**, a zagrywka *Saviour Protocols* kosztuje **0 CP**.
+
+**REMOTE PILOT** (Zdalne sterowanie), 1 AP: wybierz twojego drona. Wykonuje on od razu **jedną darmową akcję**, ale nie może się w niej ruszyć dalej niż 2". Według karty ta akcja może pominąć ograniczenie, które akcje wolno wykonywać dronom. Operator może to zrobić kilka razy w aktywacji, ale ten sam dron nie wykona tej samej darmowej akcji dwa razy w jednej aktywacji. Nie w zasięgu kontroli wroga.
 
 ### Transpectral Interference (Zakłócacz)
 
@@ -390,10 +399,10 @@ Statystyki jak MV1. Ma tylko *ram*.
 Nie — chyba że to dron MB3.
 
 **Czy znaczniki dają premię każdemu strzelcowi?**
-Tak, każdemu twojemu Pathfinderowi, który strzela do tego wroga — poza granatem termojądrowym. Strzelec wyborowy (*Inertial Dampener*) nie dostaje premii do trafiania, ale pozostałe premie — tak.
+Tak, każdemu twojemu Pathfinderowi, który strzela do tego wroga **z broni ze swojej karty**. Nie dostają ich więc granaty ze sprzętu uniwersalnego (np. *krak grenade*) ani granat termojądrowy (wyjątek zapisany na jego karcie). Strzelec wyborowy (*Inertial Dampener*) nie dostaje premii do trafiania, ale pozostałe premie — tak.
 
 **Czy mogę wziąć Drone Controllera?**
-Nie w wersji z października 2026 — jest skreślony z listy wyboru.
+Tak — to zwykła pozycja na liście 11 wyborów.
 
 **Ile znaczników traci wróg, gdy się rusza?**
 Jeden na aktywację, nawet jeśli wykona kilka akcji ruchu.

@@ -6,7 +6,7 @@ official WHC PDF eng_17-06_..._wrecka_krew_online_rules (Rules Commentary June '
 
 Discrepancy: PDF fetch summary said Tanked Up "in an activation" and Reckless Temperament normal-only; Wahapedia
 explicitly: Tanked Up "during each of its activations/counteractions", Reckless Temperament has Engage clause for crit Dmg.
-Used Wahapedia (newer, explicit quote). Flag in page as "sprawdź na karcie" not needed — Wahapedia quote is explicit.
+Used Wahapedia (newer, explicit quote). RESOLVED (audit 23 Nov 2026): official PDF pp.1 & 3 match the page — Tanked Up covers activations and counteractions; Reckless Temperament with Engage also reduces Crit Dmg 4+.
 
 ## Archetypes
 Seek & Destroy, Security.

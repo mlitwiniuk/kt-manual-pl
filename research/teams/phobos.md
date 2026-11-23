@@ -1,6 +1,6 @@
 # PHOBOS STRIKE TEAM — Wahapedia kill-team3_ (version Oct '26; prev Nov '25). Official PDF eng_17-12 online rules.
 Archetypes: Infiltration, Recon.
-Selection: 6 ops. 1 leader: Infiltrator Sergeant, Reiver Sergeant (SI bolt pistol + combat knife OR bolt carbine + fists). Incursor Sergeant STRUCK THROUGH (not selectable in Oct '26). 5 from: Infiltrator Commsman/Helix Adept/Saboteur/Veteran/Voxbreaker/Warrior; Incursor Marksman/Minelayer/Warrior; Reiver Warrior (same weapon options). Each once except WARRIOR.
+Selection: 6 ops. 1 leader: Infiltrator Sergeant, Reiver Sergeant (SI bolt pistol + combat knife OR bolt carbine + fists). Incursor Sergeant ALSO selectable (audit 23 Nov 2026: official Oct '26 PDF p.5 lists 3 leaders; ktdash agrees; earlier Wahapedia fetch misread as struck). 5 from: Infiltrator Commsman/Helix Adept/Saboteur/Veteran/Voxbreaker/Warrior; Incursor Marksman/Minelayer/Warrior; Reiver Warrior (same weapon options). Each once except WARRIOR.
 Faction rules:
 - Omni-Scrambler (Strategic Gambit, if friendly INFILTRATOR in killzone): one enemy visible to a friendly INFILTRATOR or within 6" of VOXBREAKER; next firefight phase can't be activated/perform actions until opp completed activations = # friendly INFILTRATORs in killzone when used, or it's last to activate.
 - Terror: enemy within 3" of friendly REIVER +1AP for Pick Up Marker and mission actions; marker control: total APL of enemy contesters -1 if at least one within 3" of REIVER (not a stat change; stacks).
@@ -29,7 +29,7 @@ Datacards: all APL3 M7 Sv3+ 32mm. Sgts W13, others W12. Fists 4/3+/3/4 for all.
 - Infiltrator Veteran: Custom bolt carbine 4/3+/3/4: at end of Select Operatives choose up to two of Balanced, Lethal5+, Piercing Crits 1, Rending, Saturate.
 - Infiltrator Voxbreaker: MBC. Voxbreak: enemy within 6" -> opp can't re-roll attack/defence dice for it. AUSPEX SCAN 1AP: until next activation/incap, friendly shooting enemy within 8" of Voxbreaker: no obscured; INCURSOR shooter gains Seek Light. Not in enemy CR.
 - Infiltrator Warrior (WARRIOR): MBC. Vanguard: once/TP one friendly op with this rule Pick Up Marker or mission action -1AP.
-- Incursor Sergeant (struck): Occulus bolt carbine 4/3+/3/4 Saturate; Tactical Advantage.
+- Incursor Sergeant (LEADER, W13): Occulus bolt carbine 4/3+/3/4 Saturate; Tactical Advantage.
 - Incursor Marksman: Stalker marksman bolt carbine 4/2+/3/4 Lethal5+ Piercing1. Track Target: Guard in any killzone; can Guard in Conceal but order changes to Engage when interrupting.
 - Incursor Minelayer: Occulus bolt carbine Saturate. Haywire Mine: carries marker, can Pick Up it; can't place in enemy CR; removed if incap carrying & can't place. Proximity Mine: first time marker in another op's CR: remove, -1APL until end of its next activation, 2D3+3 dmg, if survives its action ends. Minelayer ignores.
 - Incursor Warrior: Occulus bolt carbine; Vanguard.

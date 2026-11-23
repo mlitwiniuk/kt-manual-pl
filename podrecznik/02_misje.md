@@ -142,7 +142,7 @@ Każdą kartę zagrywa się jeden raz. Karty, których nie użyjesz, możesz trz
 
 > 💡 **Wskazówka:** Inicjatywa jest najważniejsza w rundach 2–4, bo wtedy liczy się, kto pierwszy dobiegnie do celu albo kto pierwszy strzeli. Nie wydawaj wszystkich kart w pierwszej rundzie.
 
-> 💡 **Wskazówka:** Inicjatywa to nie zawsze zaleta. Gracz bez inicjatywy dostaje **2 CP** zamiast 1, a jego ostatni żołnierz rusza się jako ostatni w rundzie — może zająć cel, gdy przeciwnik nie ma już czym odpowiedzieć.
+> 💡 **Wskazówka:** Inicjatywa to nie zawsze zaleta. Od drugiej rundy gracz bez inicjatywy dostaje **2 CP** zamiast 1. Jeśli oba oddziały mają tyle samo gotowych żołnierzy, to on aktywuje ostatniego żołnierza w rundzie — i może zająć cel, gdy przeciwnik nie ma już czym odpowiedzieć. Ale jeśli masz **mniej** żołnierzy niż przeciwnik, skończą ci się aktywacje wcześniej i ostatni ruch i tak należy do niego.
 
 ---
 
@@ -185,22 +185,26 @@ Ile wrogów trzeba pokonać, żeby wejść na kolejny poziom, zależy od tego, *
 
 ### Tabela poziomów eliminacji
 
-Dokładna tabela jest na karcie **Kill Op** w talii Approved Ops i w aplikacji Kill Team. Przepisz ją tutaj, żeby mieć ją zawsze pod ręką:
+Wybierz wiersz według tego, **ilu żołnierzy miał przeciwnik na początku bitwy**. Liczby w tabeli mówią, ilu wrogów musisz **łącznie** pokonać, żeby wejść na dany poziom.
 
 | Wrogów na początku | Poziom 1 | Poziom 2 | Poziom 3 | Poziom 4 | Poziom 5 |
 |---|---|---|---|---|---|
-| 5 | | | | | |
-| 6 | | | | | |
-| 7 | | | | | |
-| 8 | 2 | 3 | | | |
-| 9 | | | | | |
-| 10 | | | | | |
-| 11 | | | | | |
-| 12 | | | | | |
-| 13 | | | | | |
-| 14 | | | | | |
+| 5 | 1 | 2 | 3 | 4 | 5 |
+| 6 | 1 | 2 | 4 | 5 | 6 |
+| 7 | 1 | 3 | 4 | 6 | 7 |
+| 8 | 2 | 3 | 5 | 6 | 8 |
+| 9 | 2 | 4 | 5 | 7 | 9 |
+| 10 | 2 | 4 | 6 | 8 | 10 |
+| 11 | 2 | 4 | 7 | 9 | 11 |
+| 12 | 2 | 5 | 7 | 10 | 12 |
+| 13 | 3 | 5 | 8 | 10 | 13 |
+| 14 | 3 | 6 | 8 | 11 | 14 |
 
-W tabeli są wpisane tylko wartości potwierdzone w oficjalnym przykładzie: przy 8 wrogach poziom 1 osiągasz po 2 eliminacjach, a poziom 2 po 3. Resztę uzupełnij z karty.
+> **Przykład:** Grasz przeciwko 6 Legionistom (wiersz „6”). Pokonujesz pierwszego — wchodzisz na poziom 1 (+1 VP). Drugiego — poziom 2 (+1 VP). Trzeci nic nie daje, bo poziom 3 wymaga **4** pokonanych. Czwarty — poziom 3 (+1 VP).
+
+> ⚠️ **Uwaga:** Jeśli jedną akcją pokonasz kilku wrogów (np. wybuchem), możesz przeskoczyć od razu kilka poziomów. Dostajesz wtedy 1 VP za **każdy** nowy poziom.
+
+Tabela pochodzi z podręcznika Kill Team (Core Book, misje Preliminary Ops, s. 84). Approved Ops używa tej samej zasady i tego samego przykładu (8 wrogów: poziom 1 przy 2 pokonanych, poziom 2 przy 3).
 
 > 💡 **Wskazówka:** Kill Op to jedyna operacja, w której przeciwnik może ci odebrać szansę na punkty, po prostu chowając się. Dobrze ukryty oddział z rozkazem Conceal jest bardzo trudny do zabicia.
 
@@ -455,7 +459,7 @@ Ola gra oddziałem z 10 żołnierzami. Kuba gra oddziałem z 6 elitarnymi wojown
 
 **Wygrywa Ola 15:11**, choć pokonała mniej wrogów niż Kuba.
 
-> Liczby w tym przykładzie są wymyślone, żeby pokazać sposób liczenia. W prawdziwej grze poziomy eliminacji sprawdzasz w tabeli z karty Kill Op.
+> Liczby w tym przykładzie są wymyślone, żeby pokazać sposób liczenia. W prawdziwej grze poziomy eliminacji sprawdzasz w [tabeli poziomów eliminacji](#tabela-poziomów-eliminacji).
 
 ---
 

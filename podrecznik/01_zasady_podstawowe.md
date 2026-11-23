@@ -621,7 +621,7 @@ Rozpatrywanie (zaczyna A, bo to on atakuje):
 3. **A:** blokuje zwykłym sukcesem zwykły sukces B.
 4. B nie ma już kości, więc A rozpatruje resztę: cios zwykłym sukcesem → B dostaje 4 obrażenia i ma −1 ran. **B zostaje wyeliminowany.**
 
-> 💡 **Czy A mógł zagrać lepiej?** Tak! Mógł w kroku 1 **zablokować krytyk B swoim krytykiem**. Wtedy B mógłby uderzyć tylko zwykłym sukcesem (3 obrażenia), A zadałby dwa ciosy po 4 (razem 8) i B też by zginął — a A straciłby tylko 3 rany zamiast 4. Zawsze się zastanów, czy lepiej bić, czy blokować!
+> 💡 **Czy A mógł zagrać inaczej?** Tak. Mógł w kroku 1 **zablokować krytyk B swoim krytykiem**. Wtedy B ma już tylko zwykły sukces i najlepiej zrobi, jeśli **zablokuje** nim jeden z dwóch zwykłych sukcesów A. A zada wtedy tylko jeden cios za 4 — B przeżyje z 4 ranami, ale A nie straci ani jednej rany. (Gdyby B zamiast tego uderzył, dostałby od A dwa ciosy po 4 i by zginął.) Co jest lepsze — zabić wroga od razu czy nie stracić ran? To zależy od sytuacji. Zawsze się zastanów, czy lepiej bić, czy blokować — i co odpowie przeciwnik!
 
 ---
 
@@ -769,7 +769,7 @@ Gdy wróg jest w twoim zasięgu kontroli:
 
 Żołnierz z APL 2 robi **Reposition + Shoot**. Kolejność jest dowolna: możesz najpierw wyjść zza rogu i strzelić, a możesz też strzelić i potem schować się za ścianę.
 
-> 💡 **Wskazówka:** „Strzel i schowaj się” to bardzo sprytny ruch. Zmień rozkaz na Engage, wychyl się, strzel, a potem odejdź za ciężką ścianę, gdzie wróg cię nie zobaczy.
+> 💡 **Wskazówka:** „Strzel i schowaj się” to bardzo sprytny ruch. Zacznij aktywację w miejscu, z którego **już widzisz** wroga (np. przy krawędzi ściany), zmień rozkaz na Engage, strzel, a potem odejdź za ciężką ścianę, gdzie wróg cię nie zobaczy. Jeśli najpierw musisz wyjść zza rogu, to z APL 2 starczy ci tylko na wyjście i strzał — na powrót potrzebujesz trzeciego AP.
 
 ### Chcę zaatakować wroga, który stoi daleko
 

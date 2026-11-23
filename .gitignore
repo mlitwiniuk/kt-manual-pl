@@ -3,3 +3,6 @@ build/
 __pycache__/
 .env
 .mise.toml
+/wiki
+/scripts/publish_wiki.py
+/scripts/gen_illustrations.py

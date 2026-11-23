@@ -58,7 +58,7 @@ existing files use single-word names).
 ## Accuracy rules (must follow)
 
 1. **Never invent numbers.** If a value can't be confirmed from a source, leave a blank / say "sprawdź na
-   karcie". Example: the Kill Op grade table in `02_misje.md` is intentionally mostly empty.
+   karcie".
 2. **Write research notes first** into `research/` (English, terse), then write the Polish page from them.
    Cross-check every weapon/stat row in the page against the notes before finishing.
 3. **Source priority:** official GW PDFs / Kill Team app > Wahapedia (`wahapedia.ru/kill-team3/…`) >
@@ -72,7 +72,6 @@ existing files use single-word names).
 - Ploy CP costs: handbook states "1 CP" everywhere (3rd-ed standard) — not verified per ploy.
 - Approved Ops 2025 Crit/Tac Op descriptions are reconstructed (full card text is paywalled); some
   details deferred to "sprawdź na karcie" (Plant Banner distance, Track Enemy TP4 scoring, Rout TP limits).
-- Kill Op grade table: only the 8-enemy row (2 → grade 1, 3 → grade 2) is filled.
 
 ## Images
 
@@ -114,6 +113,12 @@ upload assets. The script is idempotent (unchanged pages are skipped). What it d
   unimplemented (pages are looked up by the cyrb53 hash of their path); Cloudflare blocks Python's default
   User-Agent. API reference: `https://kt.litwiniuk.net/_api` (Swagger), spec at `/_api/json`.
 - The theme lives in `wiki/` (see `wiki/README.md`); PATs can't set it, so it's applied in Admin → Theme.
+- **Official GW photos are wiki-only** (private wiki; this repo is public, so they never go into
+  `podrecznik/` or git). `wiki/official/manifest.json` + `wiki/official/parts/*.json` list image URLs per
+  page heading (team photo under "1. … w skrócie", one cut-out per operative H3, killzone photos); the
+  publisher downloads them (cache in `wiki/official/cache/`) and inserts them under those headings.
+  Sources: warhammer40000.com/games/faction/… pages (operative cut-outs) and Warhammer Community articles.
+  New team page → add its entries; a renamed heading breaks its image (the publisher warns).
 - The sidebar (site-wide menu) is maintained by hand in the wiki; the Oddziały submenu lists team pages.
 - Keep the source files free of wiki-specific syntax; do the conversion in the publish script.
 
@@ -127,14 +132,14 @@ Preview only.
 - All 17 team pages written (Nov 2026). Next: re-check each team page against the app when GW publishes a new
   balance update (each page states its rules version at the top).
 - Team-page items inferred or unverified (check in the app / physical cards):
-  - Wrecka Krew: Tanked Up in counteraction + Reckless Temperament Engage crit clause — follows Wahapedia wording.
   - Wrecka Krew: whether Demolisha's Detonate also damages the Demolisha itself.
   - Canoptek Circle: ranged/melee type of weapons inferred (isolator & part matter = ranged per Goonhammer).
   - Goremongers: Inciter "dual autopistols (point-blank)" treated as its melee profile (no Range, no other melee weapon).
   - Sanctifiers: Missionary appears twice in the selection list — unclear if two Missionaries are allowed.
   - Spectre Squad: Gunner melee listed as fists in the list but gun butt on the datacard (same stats).
-  - Pathfinders: Drone Controller struck out of selection; Phobos: Incursor Sergeant struck out (Oct '26 versions).
   - Tactics for Spectre, Vespid, Farstalker, Pathfinders, Battleclade, Goremongers, Sanctifiers, Celestian Insidiants,
     Murderwing are own synthesis from rules (no current review used).
-- Fill Kill Op table and verify ploy CP costs from the physical cards/app.
+- Verify ploy CP costs from the physical cards/app. (Kill Op table filled 23 Nov 2026 from Core Book p.84.)
+- Lesson from the Nov 2026 audit: Wahapedia fetches can misreport "struck through" operatives — confirm selection
+  changes against the official GW PDF before removing an operative.
 - Optionally replace the matplotlib diagrams 01–12 with nicer ones (Part B of `prompty_obrazki.md`).

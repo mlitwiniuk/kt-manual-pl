@@ -14,7 +14,7 @@ before changing any number in the handbook.
 
 ## Known gaps
 
-- **Kill Op grade table** — not available in free sources. Only one confirmed data point (8 starting enemies: grade 1 at 2 kills, grade 2 at 3 kills).
+- **Kill Op grade table** — RESOLVED: transcribed from Core Book p.84 (photo from owner, 23 Nov 2026); see research/approved-ops-2025.md.
 - **Ploy CP costs** — free sources don't render the cost icons. Handbook assumes 1 CP (3rd-ed standard); unverified per ploy.
 - **Approved Ops card wording** — full card text is only in the paid deck/app; Crit/Tac Op descriptions are reconstructed from reviews + errata.
 - `teams/phobos.md` — notes collected, handbook page not written yet; CP costs missing.

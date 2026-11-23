@@ -71,9 +71,9 @@ save(fig, "01_control_range.png")
 # 2. COVER - 4 przypadki ----------------------------------------------------
 fig, axs = plt.subplots(2, 2, figsize=(10, 6.2))
 cases = [
-    ("1. Teren blisko celu i na linii strzału", 2.85, 2.2, True,
+    ("1. Teren blisko celu i na linii strzału", 8.35, 2.2, True,
      "W osłonie (Cover)"),
-    ("2. Teren na linii strzału, ale daleko od celu", 6.0, 2.2, False,
+    ("2. Teren na linii strzału, ale daleko od celu", 4.5, 2.2, False,
      "Brak osłony"),
     ("3. Teren blisko celu, ale z boku", 8.6, 0.25, False, "Brak osłony"),
     ("4. Strzelec bliżej niż 2\"", 2.85, 2.2, False,

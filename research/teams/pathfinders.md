@@ -8,7 +8,7 @@ activations). DRONE CONTROLLER struck out in selection list (not available). Tac
 ## Selection (12): 1 Shas'ui (leader); 11 from list: Shas'la (any number), Blooded, Transpectral Interference, Assault
 Grenadier, Comms Specialist, Medical Technician, Weapons Expert (up to 2; ion rifle OR rail rifle + gun butt), Marksman,
 drones: MB3 Recon (counts as two selections), MV1 Gun, MV4 Shield, MV7 Marker, MV31 Pulse Accelerator, MV33
-Grav-inhibitor. Each once except Shas'la and Weapons Expert. Drone Controller struck out.
+Grav-inhibitor. Each once except Shas'la and Weapons Expert. Drone Controller IS selectable (audit 23 Nov 2026: official Oct '26 PDF p.6). Markerlight bonuses apply only to weapons on the shooter's datacard (official rule) — not universal grenades.
 Pulse weapons: burst cannon, pulse carbine, suppressed pulse carbine, twin pulse carbine.
 
 ## Faction rules

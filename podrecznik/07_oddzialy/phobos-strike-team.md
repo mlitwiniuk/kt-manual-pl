@@ -4,7 +4,7 @@
 
 [← Lista oddziałów](README.md) · [Spis podręcznika](../README.md)
 
-Zasady według wersji z października 2026. W tej wersji **Incursor Sergeant jest skreślony z listy wyboru** — nie można go wziąć jako dowódcy.
+Zasady według oficjalnego dokumentu z października 2026.
 
 ---
 
@@ -56,6 +56,7 @@ Twój oddział ma **6 żołnierzy**.
 **1 dowódca** — wybierz jednego:
 
 - **Infiltrator Sergeant** (Sierżant Infiltratorów),
+- **Incursor Sergeant** (Sierżant Najeźdźców),
 - **Reiver Sergeant** (Sierżant Łupieżców) — z bronią: *special issue bolt pistol* + *combat knife* **albo** *bolt carbine* + pięści.
 
 **5 żołnierzy** z tej listy:
@@ -189,6 +190,18 @@ Wybierasz: *bolt carbine* (z pięściami) **albo** *special issue bolt pistol* +
 **Grav-chute and Grapnel Launcher** (Spadochron i hak): każda wspinaczka liczy się jako **2"**, bez względu na wysokość. Przy zeskoku **nie liczysz wysokości** wcale.
 
 Zasady: *Tactical Advantage*.
+
+### Incursor Sergeant (Sierżant Najeźdźców) — dowódca
+
+| APL | Move | Save | Rany | Podstawka |
+|---|---|---|---|---|
+| 3 | 7" | 3+ | 13 | 32 mm |
+
+| Broń | Atk | Hit | Dmg | Cechy |
+|---|---|---|---|---|
+| Occulus bolt carbine (Karabinek z celownikiem Occulus) | 4 | 3+ | 3/4 | Saturate |
+
+Zasady: *Tactical Advantage*. Jako Incursor korzysta z *Multi-Spectrum Array* (wrogowie nie mogą być zasłonięci, gdy do nich strzela).
 
 ### Infiltrator Commsman (Łącznościowiec)
 
@@ -410,7 +423,7 @@ Tak. Zagrywka sprawdza tylko, czy żołnierz ruszał się **przed** strzałem.
 Kontra to nie aktywacja, więc ograniczenia z aktywacji (np. „nie w tej samej aktywacji co Charge”) jej nie dotyczą.
 
 **Czy mogę wziąć Incursor Sergeanta?**
-Nie w wersji z października 2026 — jest skreślony z listy wyboru.
+Tak. To jeden z trzech dowódców do wyboru (obok Infiltrator Sergeanta i Reiver Sergeanta).
 
 ---
 

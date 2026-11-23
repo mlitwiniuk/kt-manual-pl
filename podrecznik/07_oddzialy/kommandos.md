@@ -384,7 +384,7 @@ Boss Nob (Power klaw), Breacha Boy, Slasha Boy, Dakka Boy, Rokkit Boy, Burna Boy
 1. **Pierwsza runda — schowaj się.** Prawie wszyscy z rozkazem Conceal w osłonach. Snipa i Rokkit na dobrych pozycjach strzeleckich.
 2. **Runda 2 — SSSSHHHH!** Darmowy Dash dla ukrytych Orków. Zbliżasz się do wroga i do celów misji, zanim przeciwnik się ruszy.
 3. **Szarża z ukrycia.** Ork z Conceal szarżuje (*Throat Slittas*) i walczy. Z *KUNNIN' BUT BRUTAL* pierwszy cios jest krytykiem.
-4. **Comms Boy + szef.** *GET IT DUN!* i *LISTEN IN* dają dwóm Orkom APL 3. Ork z APL 3 może np. Charge + Fight + Reposition (z powrotem do osłony).
+4. **Comms Boy + szef.** *GET IT DUN!* i *LISTEN IN* dają dwóm Orkom APL 3. Ork z APL 3 może np. Dash + Charge + Fight albo Reposition + Shoot + Dash. Pamiętaj: po szarży nie wolno w tej samej aktywacji wykonać Reposition.
 5. **Breacha przez ścianę.** W trakcie szarży robi dziurę w cienkiej ścianie i atakuje wroga, który myślał, że jest bezpieczny.
 6. **KRUMP 'EM! na koniec rundy.** Darmowa walka, na którą przeciwnik nie może odpowiedzieć.
 7. **Grot na celu.** Grot w osłonie przy celu misji jest nie do zestrzelenia — a liczy się do kontroli celu.

@@ -45,3 +45,7 @@ Martyrs: only first time each operative is incapacitated (ops set back up & inca
 Bheta-Decima Map 5: flipped board, changed drop zones.
 Stake Claim VP: "At the end of each turning point after the first:" ; Energy Cells VP "At the end of each turning point after the first, if friendly operatives ...".
 NOTE: full card texts not freely available; describe from Goonhammer review + errata; tell user to check cards.
+
+Kill grade table (Core Book p.84, Preliminary Ops; same rule/example as AO2025). Starting enemies: grades 1-5 (cumulative kills)
+5: 1 2 3 4 5 | 6: 1 2 4 5 6 | 7: 1 3 4 6 7 | 8: 2 3 5 6 8 | 9: 2 4 5 7 9
+10: 2 4 6 8 10 | 11: 2 4 7 9 11 | 12: 2 5 7 10 12 | 13: 3 5 8 10 13 | 14: 3 6 8 11 14
